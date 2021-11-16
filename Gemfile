@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'rails',        '~> 5.1.6'
+gem 'rails-i18n'
 gem 'bcrypt' # これを追加することでhas_secure_passwordが使用できるようなる。
 gem 'faker'
 gem 'bootstrap-sass'
